@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/saymedia/angularjs-server.svg?branch=master)](https://travis-ci.org/saymedia/angularjs-server)
+[![Build Status](https://travis-ci.org/ronaldallanmojica/mojTranslate.svg?branch=master)](https://travis-ci.org/ronaldallanmojica/mojTranslate)
 
 # moj-translate
 
